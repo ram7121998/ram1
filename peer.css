@@ -1,0 +1,32 @@
+@media only screen and (min-width: 0px){
+.Column1{
+	background-color: #a6a6a6;
+	border:1px solid black;
+	width: 300px;
+	height: 130px;
+	margin: 10px;
+}
+.Column2{
+	background-color:#a6a6a6;
+	border:1px solid black;
+	width: 300px;
+	height: 130px;
+	margin: 10px;
+}
+.Column3{
+	background-color: #a6a6a6;
+	border:1px solid black;
+	width: 300px;
+	height: 130px;
+	margin: 10px;
+}
+}
+
+h3{
+	font-family: Helvetica;
+	border:1px solid black;
+	width: 130px;
+    height: 30px;
+    
+	background-color: #ff4d4d; 
+	}
